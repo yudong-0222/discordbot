@@ -28,12 +28,12 @@ async def on_ready():
         await ctx.channel.purge(limit=num+1)
     @bot.command()
     async def HP(ctx):
-        await ctx.channel.send('**小雞雞所飼養的雞雞 VER 0.3-b**')  
+        await ctx.channel.send('~~**小雞雞所飼養的雞雞 VER 0.3-b**~~')  
         await ctx.channel.send('**指令列表**')  
         await ctx.channel.send('載入中...')  
         await ctx.channel.send('**尚未支援**')  
         await ctx.channel.send('**尚未支援**')  
-        await ctx.channel.send('**小雞雞所飼養的雞雞 VER 0.3-b**') 
+        await ctx.channel.send('~~**小雞雞所飼養的雞雞 VER 0.3-b**~~') 
 
 
 
