@@ -39,4 +39,4 @@ async def on_ready():
 
 
 
-bot.run('ODQ2MjI0NzY3MTk1NTQ1NjMw.YKsaOg.I_K4Droo2FtLLTb_jGthmWAA-QI')        
+#poraknf
